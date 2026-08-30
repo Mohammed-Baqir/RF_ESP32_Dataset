@@ -16,13 +16,7 @@ Self-collected ESP32-based WiFi CSI dataset (2.4 GHz, 20 MHz, 64 subcarriers) us
 | Total                     |      192 |
 
 ## Per-session files
-metadata.json, events.csv, csi_data.npy, agc_data.npy, fft_data.npy, session_info.json
-(rf_summary.json included only where available)
-
-## Dataset-level files
-metadata.csv (session index with anonymized person IDs), label_mapping.csv,
-evaluation_folds.json (leave-one-environment-out splits), README.md, LICENSE.txt,
-checksums_sha256.csv
+metadata.json, events.csv, csi_data.npy, agc_data.npy, fft_data.npy, session_info.json, rf_summary.json
 
 ## Notes
 - Person identifiers are anonymized (P01, P02, ...). The original-to-anonymized mapping is NOT included in this archive.
