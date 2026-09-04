@@ -25,7 +25,7 @@ This dataset exported using the companion open-source toolkit:
 
 👉 **[RF_ESP32_CSI_Tools — Unified Wi-Fi CSI Viewer & Spatial Diversity Analyzer](https://github.com/Mohammed-Baqir/RF_ESP32_CSI_Tools)**
 
-The toolkit (`GUI_CSI-Dataset_Collection.py`) is the **host-side analyzer** that generated this archive.
+> The toolkit (`GUI_CSI-Dataset_Collection.py`) is the **host-side analyzer** that generated this archive.
 
 ### Hardware Setup Used for This Dataset
 
